@@ -112,6 +112,7 @@ button:hover {
     height: calc(100% - 40px);
     
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: repeat(auto-fit, 300px);
     row-gap: 2vh;
     column-gap: 2vw;
     margin:20px;
